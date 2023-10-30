@@ -42,7 +42,7 @@ Table                                     |  Visualisation
 :-----------------------------------------|:-------------------------:
 ![](Region1.png)                          |![](Region1.1.png)
 
-West Region contributed 32% to total sales and 38% to total profit being the overall best as compared to other regions, followed by East with 30% and 32% to total sales and profit with Central and South Regions being the least. Marketting Strategies should  implemented to improve on the productivity of the Central and South Regions.
+West Region contributed 32% to total sales and 38% to total profit being the overall best as compared to other regions, followed by East with 30% and 32% to total sales and profit with Central and South Regions being the least. Marketting Strategies should be  implemented to improve on the productivity of the Central and South Regions.
 
 ### Sales of 2016 and 2017 by Months
 Table                             | Visualisation
@@ -59,9 +59,9 @@ Table                            | Visualisation
 The Customer who contributed greatly to the sales of the company is Sean Miller with just 50 items bought. Looking at the relationship between quantity bought and revenue generated, one is tempted to say that the Quantity of goods sold is not a major determinant to the revenue. A customer can order just one item but far more expensive than 100 items bought by another customer thereby having a positive impact on the company's revenue.
 
 ## Conclusions and Recommendations 
-The overall profit margin of the store is not bad but company can do better if they continue with the trend of 2017.
+The overall profit margin of the store is not bad but company can do better if overhead cost is reduced.
 
 ## Recommendations
 -Company should invest more in consumer Segment 
 - Discounts should be given to clients buying anything related to technolgy in the city of Lancaster in Ohio state. Persuasive advertisement should be carried out in this area too.
-- Customers of the month/ year should be identified and appreciated. This will serve as a form of motivation to others thereby increasing the sales of the Company.
+- Customers of the month/ year should be identified and appreciated. This will serve as a form of motivation to others thereby increasing the sales of the Company.  why not profit margin.
