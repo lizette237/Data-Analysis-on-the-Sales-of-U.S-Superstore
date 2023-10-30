@@ -26,3 +26,9 @@ From the above analysis, the least profit margin of U.S Superstore was generated
 Table                     |           Visualisation
 :-------------------------|:------------------------:
 ![](Segment1.png)         |![](Segment.png)
+The consumer segment contributed a revenue of $1.161,401.34 that is 51% to it's total sales while Corporate and Home Office contributed 31% and 19% respectively.
+
+### Total Profit by Year
+Table                     |            Visualisation
+:-------------------------|:-------------------------:
+![](Profit by year1.png)  |![](Profit by year.png)
