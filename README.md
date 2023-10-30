@@ -32,3 +32,5 @@ The consumer segment contributed a revenue of $1.161,401.34 that is 51% to it's 
 Table                     |            Visualisation
 :-------------------------|:-------------------------:
 ![](Profit by year1.png)  |![](Profit by year.png)
+
+
